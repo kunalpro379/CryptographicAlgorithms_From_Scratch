@@ -99,8 +99,8 @@ Note: For actual images of the output, you would need to:
 3. Save them in an `images` folder
 4. Add them to the README using markdown image syntax like:
 ```markdown
-![Additive Cipher Example](./images/additive_example.png)
-![Multiplicative Cipher Example](./images/multiplicative_example.png)
+![Additive Cipher Example](./images/Additive.png)
+![Multiplicative Cipher Example](./images/Multiplicative.png)
 ```
 
 You can enhance this README further by:
